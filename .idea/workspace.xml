@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6bf7078d-7165-445d-bc77-1e517a5098d5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/debug/res/values/google_maps_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/release/res/values/google_maps_api.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/google-services.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefFoodPanel/ChefHomeFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefFoodPanel/ChefHomeFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefFoodPanel/ChefOrderDishesAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefFoodPanel/ChefOrderDishesAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefFoodPanel/ChefOrderFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefFoodPanel/ChefOrderFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefFoodPanel/ChefOrderTobePrepared.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefFoodPanel/ChefOrderTobePrepared.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefFoodPanel/ChefOrderTobePreparedAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefFoodPanel/ChefOrderTobePreparedAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefFoodPanel/ChefOrdertobePrepareView.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefFoodPanel/ChefOrdertobePrepareView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefFoodPanel/ChefOrdertobePrepareViewAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefFoodPanel/ChefOrdertobePrepareViewAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefFoodPanel/ChefPendingOrdersAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefFoodPanel/ChefPendingOrdersAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefFoodPanel/ChefPendingOrdersFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefFoodPanel/ChefPendingOrdersFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefFoodPanel/ChefPreparedOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefFoodPanel/ChefPreparedOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefFoodPanel/ChefPreparedOrderAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefFoodPanel/ChefPreparedOrderAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefFoodPanel/ChefPreparedOrderView.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefFoodPanel/ChefPreparedOrderView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefFoodPanel/ChefPreparedOrderViewAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefFoodPanel/ChefPreparedOrderViewAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefFoodPanel/ChefProfileFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefFoodPanel/ChefProfileFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefFoodPanel/Chef_PostDish.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefFoodPanel/Chef_PostDish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefFoodPanel/Chef_order_dishes.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefFoodPanel/Chef_order_dishes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefFoodPanel/ChefhomeAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefFoodPanel/ChefhomeAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefFoodPanel/Update_Delete_Dish.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefFoodPanel/Update_Delete_Dish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefFoodPanel_BottomNavigation.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefFoodPanel_BottomNavigation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefForgotPassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefForgotPassword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefRegisteration.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefRegisteration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefVerifyPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChefVerifyPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/Chefloginphone.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/Chefloginphone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/Chefsendotp.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/Chefsendotp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChooseOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ChooseOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/CustomerFoodPanel/CustomerCartAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/CustomerFoodPanel/CustomerCartAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/CustomerFoodPanel/CustomerCartFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/CustomerFoodPanel/CustomerCartFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/CustomerFoodPanel/CustomerForgotpassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/CustomerFoodPanel/CustomerForgotpassword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/CustomerFoodPanel/CustomerHomeAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/CustomerFoodPanel/CustomerHomeAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/CustomerFoodPanel/CustomerHomeFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/CustomerFoodPanel/CustomerHomeFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/CustomerFoodPanel/CustomerOnlinePayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/CustomerFoodPanel/CustomerOnlinePayment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/CustomerFoodPanel/CustomerOrderFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/CustomerFoodPanel/CustomerOrderFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/CustomerFoodPanel/CustomerPassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/CustomerFoodPanel/CustomerPassword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/CustomerFoodPanel/CustomerPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/CustomerFoodPanel/CustomerPayment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/CustomerFoodPanel/CustomerPaymentOTP.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/CustomerFoodPanel/CustomerPaymentOTP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/CustomerFoodPanel/CustomerPhoneSendOTP.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/CustomerFoodPanel/CustomerPhoneSendOTP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/CustomerFoodPanel/CustomerPhonenumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/CustomerFoodPanel/CustomerPhonenumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/CustomerFoodPanel/CustomerProfileFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/CustomerFoodPanel/CustomerProfileFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/CustomerFoodPanel/CustomerTrackAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/CustomerFoodPanel/CustomerTrackAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/CustomerFoodPanel/CustomerTrackFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/CustomerFoodPanel/CustomerTrackFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/CustomerFoodPanel/OrderDish.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/CustomerFoodPanel/OrderDish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/CustomerFoodPanel/PayableOrderAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/CustomerFoodPanel/PayableOrderAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/CustomerFoodPanel/PayableOrders.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/CustomerFoodPanel/PayableOrders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/CustomerFoodPanel/PendingOrders.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/CustomerFoodPanel/PendingOrders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/CustomerFoodPanel/PendingOrdersAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/CustomerFoodPanel/PendingOrdersAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/CustomerFoodPanel_BottomNavigation.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/CustomerFoodPanel_BottomNavigation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/DeliveryFoodPanel/DeliveryPendingOrderFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/DeliveryFoodPanel/DeliveryPendingOrderFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/DeliveryFoodPanel/DeliveryPendingOrderFragmentAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/DeliveryFoodPanel/DeliveryPendingOrderFragmentAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/DeliveryFoodPanel/DeliveryPendingOrderView.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/DeliveryFoodPanel/DeliveryPendingOrderView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/DeliveryFoodPanel/DeliveryPendingOrderViewAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/DeliveryFoodPanel/DeliveryPendingOrderViewAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/DeliveryFoodPanel/DeliveryShipOrderFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/DeliveryFoodPanel/DeliveryShipOrderFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/DeliveryFoodPanel/DeliveryShipOrderFragmentAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/DeliveryFoodPanel/DeliveryShipOrderFragmentAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/DeliveryFoodPanel/DeliveryShipOrderView.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/DeliveryFoodPanel/DeliveryShipOrderView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/DeliveryFoodPanel/DeliveryShipOrderViewAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/DeliveryFoodPanel/DeliveryShipOrderViewAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/DeliveryFoodPanel/Delivery_ShippingOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/DeliveryFoodPanel/Delivery_ShippingOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/Delivery_FoodPanelBottomNavigation.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/Delivery_FoodPanelBottomNavigation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/Delivery_ForgotPassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/Delivery_ForgotPassword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/Delivery_Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/Delivery_Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/Delivery_LoginPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/Delivery_LoginPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/Delivery_SendOtp.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/Delivery_SendOtp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/Delivery_VerifyPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/Delivery_VerifyPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/Delivery_registeration.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/Delivery_registeration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ForgotPassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/ForgotPassword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/LoginPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/LoginPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/MainMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/MainMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/Registeration.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/Registeration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/SendNotification/APIService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/SendNotification/APIService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/SendNotification/ShowNotification.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/SendNotification/ShowNotification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/VerifyPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/VerifyPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/sendotp.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/food_on/app/sendotp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[SerialNumber@044033396A138276]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="FoodOn" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="FoodOn" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="FoodOn" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1uQyTkj4FMPpM9Om7QmufP5WYFm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.250122820">
+      <recent name="com.food_on.app" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="FoodOn.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bf7078d-7165-445d-bc77-1e517a5098d5" name="Default Changelist" comment="" />
+      <created>1624612117793</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624612117793</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1624629760232">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="141" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741/1366.0.1280.1024@0.27.1366.741" timestamp="1624629760232" />
+    <state width="1322" height="224" key="GridCell.Tab.0.bottom" timestamp="1624630547905">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1322" height="224" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1280.1024@0.27.1366.741" timestamp="1624630547905" />
+    <state width="1322" height="224" key="GridCell.Tab.0.center" timestamp="1624630547904">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1322" height="224" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1280.1024@0.27.1366.741" timestamp="1624630547904" />
+    <state width="1322" height="224" key="GridCell.Tab.0.left" timestamp="1624630547904">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1322" height="224" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1280.1024@0.27.1366.741" timestamp="1624630547904" />
+    <state width="1322" height="224" key="GridCell.Tab.0.right" timestamp="1624630547905">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1322" height="224" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1280.1024@0.27.1366.741" timestamp="1624630547905" />
+  </component>
+</project>

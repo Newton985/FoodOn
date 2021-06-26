@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "714495678330",
+    "firebase_url": "https://neibordish-default-rtdb.firebaseio.com",
+    "project_id": "neibordish",
+    "storage_bucket": "neibordish.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714495678330:android:4db3dab0574cd00c18a8c3",
+        "android_client_info": {
+          "package_name": "com.Neiborsdish.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714495678330-pkqant420kskmn55n8j16dkmcmtr1mog.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Neiborsdish.app",
+            "certificate_hash": "55ec6d48db0b7bdef622aa5be43a3e338e6a9a5a"
+          }
+        },
+        {
+          "client_id": "714495678330-6h7c89mvuhla8vnm5uurktlt63bfvcet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgvzsNso_RF8ugDPeV-o9KT86KNa9x__w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714495678330-6h7c89mvuhla8vnm5uurktlt63bfvcet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
